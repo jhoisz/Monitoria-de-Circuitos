@@ -15,4 +15,4 @@ begin
     s3 <= B"1_0_11";                       -- binario default com separadores
     s4 <= X"B";                            -- hexadecinal
     s5 <= (3 => '1', 2 '0', others => '1');-- uso da palavra reservada others
-end teste;
+end circuito;
