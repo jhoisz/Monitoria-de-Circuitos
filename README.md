@@ -1,4 +1,5 @@
 # Monitoria-de-Circuitos
 Materiais para monitoria de Circuitos Digitais 2020.1
 
-O material utilizado neste repositório foi retirado do site https://www.doulos.com/knowhow/vhdl_designers_guide/internal_signals/ 
+Referência:
+D'AMORE, Roberto. VHDL- Descrição e Síntese de Circuitos Digitais. 2ª ed. Editora LTC, 2012.
