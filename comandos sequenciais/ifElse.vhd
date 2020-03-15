@@ -5,7 +5,7 @@ entity ifElse is
     port(
         i0, i1, i2, i3 : in bit;
         s0, s1 : in bit;
-        ot : out bit;
+        ot : out bit
     );
 end ifElse;
 
