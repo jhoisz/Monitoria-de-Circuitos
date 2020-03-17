@@ -21,5 +21,6 @@ begin
             when "01" => ot <= i1;
             when "10" => ot <= i2;
             when others => ot <= i3;
-        end process abc;
+        end case;
+    end process abc;
 end circuito;
