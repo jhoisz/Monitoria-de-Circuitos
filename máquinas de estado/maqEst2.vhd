@@ -36,7 +36,8 @@ begin
                     else             estado <= 2;
                     end if;
                 end case;
-            end process abc;
+            end if;
+        end process abc;
 
         with estado select
             q <="00" when 0,
